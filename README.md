@@ -66,19 +66,11 @@ I am a 3x hackathon winner.
 
 ## Github Stats  
 <div align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=idighekere&show_icons=true&locale=en&layout=compact&theme=light" alt="Most Used Languages" />
-  
-  <br/>
-
-  <img src="https://github-stats-extended.vercel.app/api?username=idighekere&show_icons=true&theme=light" alt="Stats" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idighekere&theme=light" alt="GitHub Streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=idighekere&theme=light" alt="GitHub Streak" />
 </div>
 
 ## Leetcode Stat
-![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/idighekere?acceptance=false&reputation=false&font=%27Open+Sans%27%2C+Arial%2C+Helvetica%2C+sans-serif&template=minimal)
+![LeetCode Stats](https://leetcard.jacoblin.cool/idighekere?theme=light&font=Urbanist)
 
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idighekere" alt="idighekere" /></a> </p>-->
